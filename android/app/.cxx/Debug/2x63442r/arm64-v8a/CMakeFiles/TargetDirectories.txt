@@ -1,0 +1,2 @@
+H:/Collage/payment/android/app/.cxx/Debug/2x63442r/arm64-v8a/CMakeFiles/edit_cache.dir
+H:/Collage/payment/android/app/.cxx/Debug/2x63442r/arm64-v8a/CMakeFiles/rebuild_cache.dir
